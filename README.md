@@ -1,2 +1,2 @@
 # hello-world2
-this my own test about my grasp of githup
+I want to do something special for myself.
